@@ -176,9 +176,9 @@ p {
     }
 }
 
-@media screen and (max-width:460px){
+@media screen and (max-width:767px){
     .grid-item1 {
-        font-size:30px;
+        font-size:30px!important;
     }
 }
 
