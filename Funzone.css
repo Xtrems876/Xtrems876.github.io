@@ -141,6 +141,10 @@ p {
         height: 100%;
         width: 100%;
     }
+    .grid-item3 {
+        padding-left: 0px;
+        padding-right:0px;
+    }
 }
 
 @media screen and (max-width:400px){
