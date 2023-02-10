@@ -87,8 +87,8 @@ p {
 }
 
 .grid-item3 {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
     grid-area: main;
     overflow-y: scroll;
     animation: fadeIn 1s;
