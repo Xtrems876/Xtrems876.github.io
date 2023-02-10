@@ -71,6 +71,7 @@ p {
     display: grid;
     grid-template-areas:
         'god god god god god god'
+        'main main main main main main'
         'main main main main main main';
     gap: 30px;
     grid-template-rows: 80px 100px auto;
