@@ -176,6 +176,12 @@ p {
     }
 }
 
+@media screen and (max-width:460px){
+    .grid-item1 {
+        font-size:30px;
+    }
+}
+
 @media screen and (max-width:400px){
     .form {
         display:none;
