@@ -158,10 +158,6 @@ p {
             'header header header header header header'
             'main main main main right right';
     }
-    .logo {
-        height: 100%;
-        width: 100%;
-    }
 }
 
 @media screen and (max-width:767px) {

@@ -137,10 +137,6 @@ p {
 }
 
 @media screen and (max-width:1023px) {
-    .logo {
-        height: 100%;
-        width: 100%;
-    }
     .grid-item3 {
         padding-left: 0px;
         padding-right:0px;

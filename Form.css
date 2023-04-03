@@ -143,10 +143,6 @@ p {
 }
 
 @media screen and (max-width:1023px) {
-    .logo {
-        height: 100%;
-        width: 100%;
-    }
     .grid-item1 {
         padding-top: 20px;
     }
