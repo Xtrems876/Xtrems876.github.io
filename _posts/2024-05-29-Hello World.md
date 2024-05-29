@@ -11,8 +11,6 @@ tags: [jekyll, chirpy, blog]
 #media_subpath: /path/to/media/
 ---
 
-# This is my first post using Jekyll
-
 I don't know how any of this works, this will be a fun learning experience. I like that the site is static, I like that I can post on it by pushing markdown files to a github repo. I could use some cheatsheet aside from online guides, but that will probably quickly become obsolete.
 
 ## TODO
