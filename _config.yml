@@ -29,7 +29,7 @@ github:
   username: Xtrems876 # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: Xtrems876 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,12 @@ social:
   email: kielinski.adam@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://tech.lgbt/@Xtrems876
     - https://github.com/Xtrems876 # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.facebook.com/kielinski.adam/
+     - https://www.linkedin.com/in/adam-kieli%C5%84ski/
 
 # Site Verification Settings
 webmaster_verifications:
